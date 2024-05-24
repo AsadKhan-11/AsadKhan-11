@@ -3,9 +3,9 @@
 
 - 📫 How to reach me **mrasad10khan@gmail.com**
 
-- 💬 Ask me about **Html,Css,Js**
+- 💬 Ask me about **Html,Css,Js,React.js**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 
 <h3 align="left">Connect with me:</h3>
