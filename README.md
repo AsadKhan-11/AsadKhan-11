@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Khan</h1>
-<h3 align="center">Front-end developer & a student who is eager to learn and grow as a developer. Skilled in HTML, CSS, JavaScript, and ReactJS. Creative and detail-oriented, crafting user-friendly interfaces with a focus on responsiveness. Open to contribution to open-source projects.</h3>
+<h3 align="center">MERN stack developer & a student eager to learn and grow in full-stack development. Skilled in MongoDB, Express.js, React.js, and Node.js, along with HTML, CSS, and JavaScript. Creative and detail-oriented, crafting user-friendly and responsive web applications. Open to contributing to open-source projects and collaborative development.</h3>
 
 - 📫 How to reach me **mrasad10khan@gmail.com**
 
